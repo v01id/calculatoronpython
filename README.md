@@ -1,1 +1,3 @@
-soon calculator on python by vo1d.
+tipical calculator 
+the license belongs to vo1d 
+the license is valid from 2021 
